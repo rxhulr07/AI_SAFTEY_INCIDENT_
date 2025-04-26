@@ -84,3 +84,9 @@ You have two options to set up and run the project:
 ---
 
 # 🚀 Happy Coding!
+
+
+## 🧠 Design Decisions & Challenges
+
+While building the project, one of the biggest challenges I faced was designing the UI, as I am not a professional UI/UX designer. 
+I struggled with deciding how the interface should look and made numerous changes along the way. At times, I even ended up deleting and restarting the entire project two or three times. This experience taught me the importance of having at least a basic blueprint or wireframe beforehand, as it would have made the development process much smoother and more efficient. Despite the challenges, it was a valuable learning experience that helped me improve my design and problem-solving skills.
