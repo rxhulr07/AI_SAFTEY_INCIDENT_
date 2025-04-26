@@ -51,6 +51,17 @@
     border: none;
     cursor: pointer;
   }
+  .primary-btn:hover, .sort-btn:hover, .text-btn:hover {
+    background-color: #2980b9; /* A slightly darker blue on hover */
+    color: white;
+  }
+  
+  .incident-card:hover {
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.15); /* Slightly stronger shadow */
+    transform: translateY(-2px);
+    transition: all 0.3s ease;
+  }
+  
   
   .incident-form {
     background-color: #f4f6f7;
